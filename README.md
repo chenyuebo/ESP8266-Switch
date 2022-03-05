@@ -21,7 +21,7 @@
 相关文件都已上传。
 
 ## 模块效果图
-![效果图1](https://note.youdao.com/yws/public/resource/6757f71eb7ee6316f2763eaad4dd0db0/xmlnote/WEBRESOURCEe98e54ff1d6400c4cf63a0b6e4953c53/14150)
+![效果图1](5.Docs/image1.jpg)
 
 ## 模块安装后效果
 ![效果图2](https://note.youdao.com/yws/public/resource/6757f71eb7ee6316f2763eaad4dd0db0/xmlnote/WEBRESOURCE3f20fb7d70aeab76ee623836f04d6c21/14152)
